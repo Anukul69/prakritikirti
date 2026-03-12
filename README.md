@@ -1,0 +1,1 @@
+PrakritiKriti is a web-based platform designed to connect farmers and artisans directly, enabling them to collaborate, share resources, and promote sustainable products. The platform helps reduce middlemen and supports local producers by creating a digital marketplace and networking space.
